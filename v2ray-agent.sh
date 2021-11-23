@@ -44,7 +44,6 @@ echo ""
 
 echo "Test network speed:"
 speedtest -A
-YES
 sleep 1
 clear
 
